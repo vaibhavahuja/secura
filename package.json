@@ -1,6 +1,6 @@
 {
   "name": "secura",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Storing passwords in a secure way. Returns a promise with the secure password.",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,17 @@
   },
   "devDependencies": {
     "mocha": "^7.2.0"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavahuja/secura.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vaibhavahuja/secura/issues"
+  },
+  "homepage": "https://github.com/vaibhavahuja/secura#readme"
 }
