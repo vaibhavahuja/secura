@@ -1,4 +1,5 @@
 # Secura
+[![Build Status](https://travis-ci.com/vaibhavahuja/secura.svg?branch=master)](https://travis-ci.com/vaibhavahuja/secura)
 
 Storing passwords in plain text can be very dangerous, even using a simple hashing algorithm is prone to attacks. 
 
