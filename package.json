@@ -1,0 +1,25 @@
+{
+  "name": "secura",
+  "version": "1.0.0",
+  "description": "Storing passwords in a secure way. Returns a promise with the secure password.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "passwords",
+    "secure",
+    "hashing",
+    "pbkdf2",
+    "crypto", 
+    "secura"
+  ],
+  "author": "Vaibhav Ahuja",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}

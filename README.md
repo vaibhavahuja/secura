@@ -1,2 +1,6 @@
 # secura
-library for storing passwords in database securely 
+
+Library for storing passwords in database securely using Promises.
+
+
+Will update this in a bit.
